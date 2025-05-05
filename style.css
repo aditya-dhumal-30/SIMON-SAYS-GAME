@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 170px;
+    width: 170px;
+    border: solid black 5px;
+    border-radius: 20%;
+    margin: 0.5rem;
+
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-1{
+    background-color: red;
+}
+
+.btn-2{
+    background-color: yellow;
+}
+
+.btn-3{
+    background-color: blue;
+}
+
+.btn-4{
+    background-color: green;
+}
+
+.flash{
+    background-color: white;
+}
